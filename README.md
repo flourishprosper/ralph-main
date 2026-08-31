@@ -1,3 +1,5 @@
+
+
 # Ralph
 
 ![Ralph](ralph.webp)
@@ -244,6 +246,8 @@ Edit `prompt.md` to customize Ralph's behavior for your project:
 
 ## Archiving
 
+## Archiving
+
 Ralph automatically archives previous runs when you start a new feature (different `branchName`). 
 
 **How it works:**
@@ -259,4 +263,4 @@ This ensures you don't lose previous work and can reference past iterations when
 
 - [Geoffrey Huntley's Ralph article](https://ghuntley.com/ralph/)
 - [Cursor documentation](https://cursor.com/manual)
-- [Snarktank] (https://github.com/snarktank)
+- [Snarktank](https://github.com/snarktank)
